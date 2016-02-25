@@ -4,7 +4,7 @@
 
 	<artifactId>codera-templating</artifactId>
 	<packaging>pom</packaging>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<parent>
 		<groupId>uk.co.codera</groupId>
@@ -26,7 +26,7 @@
 		<connection>scm:git:git@github.com:coderauk/templating.git</connection>
 		<developerConnection>scm:git:git@github.com:coderauk/templating.git</developerConnection>
 		<url>git@github.com:coderauk/templating.git</url>
-	  <tag>codera-templating-0.0.1</tag>
+	  <tag>HEAD</tag>
   	</scm>
 
   	<modules>
